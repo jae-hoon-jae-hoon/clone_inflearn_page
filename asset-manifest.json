@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/clone_inflearn_page/static/css/main.5d2dfa39.css",
-    "main.js": "/clone_inflearn_page/static/js/main.584a5782.js",
+    "main.js": "/clone_inflearn_page/static/js/main.71baeb87.js",
     "static/js/453.c9fe4ae1.chunk.js": "/clone_inflearn_page/static/js/453.c9fe4ae1.chunk.js",
     "static/media/Pretendard-ExtraBold.woff": "/clone_inflearn_page/static/media/Pretendard-ExtraBold.f6491e200d1fb5c5917b.woff",
     "static/media/Pretendard-Bold.woff": "/clone_inflearn_page/static/media/Pretendard-Bold.1f1dbbbf311ffffcc770.woff",
@@ -21,11 +21,11 @@
     "static/media/image.png": "/clone_inflearn_page/static/media/image.9d9df54572813d95b098.png",
     "index.html": "/clone_inflearn_page/index.html",
     "main.5d2dfa39.css.map": "/clone_inflearn_page/static/css/main.5d2dfa39.css.map",
-    "main.584a5782.js.map": "/clone_inflearn_page/static/js/main.584a5782.js.map",
+    "main.71baeb87.js.map": "/clone_inflearn_page/static/js/main.71baeb87.js.map",
     "453.c9fe4ae1.chunk.js.map": "/clone_inflearn_page/static/js/453.c9fe4ae1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d2dfa39.css",
-    "static/js/main.584a5782.js"
+    "static/js/main.71baeb87.js"
   ]
 }
